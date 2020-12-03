@@ -1,0 +1,14 @@
+D:\C#Basics\Assign1\Assign1\bin\Debug\netcoreapp3.1\Assign1.exe
+D:\C#Basics\Assign1\Assign1\bin\Debug\netcoreapp3.1\Assign1.deps.json
+D:\C#Basics\Assign1\Assign1\bin\Debug\netcoreapp3.1\Assign1.runtimeconfig.json
+D:\C#Basics\Assign1\Assign1\bin\Debug\netcoreapp3.1\Assign1.runtimeconfig.dev.json
+D:\C#Basics\Assign1\Assign1\bin\Debug\netcoreapp3.1\Assign1.dll
+D:\C#Basics\Assign1\Assign1\bin\Debug\netcoreapp3.1\Assign1.pdb
+D:\C#Basics\Assign1\Assign1\obj\Debug\netcoreapp3.1\Assign1.csprojAssemblyReference.cache
+D:\C#Basics\Assign1\Assign1\obj\Debug\netcoreapp3.1\Assign1.AssemblyInfoInputs.cache
+D:\C#Basics\Assign1\Assign1\obj\Debug\netcoreapp3.1\Assign1.AssemblyInfo.cs
+D:\C#Basics\Assign1\Assign1\obj\Debug\netcoreapp3.1\Assign1.csproj.CoreCompileInputs.cache
+D:\C#Basics\Assign1\Assign1\obj\Debug\netcoreapp3.1\Assign1.dll
+D:\C#Basics\Assign1\Assign1\obj\Debug\netcoreapp3.1\Assign1.pdb
+D:\C#Basics\Assign1\Assign1\obj\Debug\netcoreapp3.1\Assign1.genruntimeconfig.cache
+D:\C#Basics\Assign1\Assign1\obj\Debug\netcoreapp3.1\Assign1.csproj.ResolveComReference.cache
